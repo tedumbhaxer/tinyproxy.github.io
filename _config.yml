@@ -1,0 +1,8 @@
+title: Tinyproxy
+description: lightweight http(s) proxy daemon
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
